@@ -1,2 +1,1 @@
 # logic-activity
-Author-SyedaKanzulArif
